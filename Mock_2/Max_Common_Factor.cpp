@@ -1,9 +1,24 @@
+//#include<iostream>
+//using namespace std;
 //
-//  Max_Common_Factor.cpp
-//  Mock_2
-//
-//  Created by Cuipy on 2020/4/18.
-//  Copyright © 2020 Cuipy. All rights reserved.
-//
-
-#include <stdio.h>
+//int main(){
+//    int r_0;
+//    int r_1;
+//    int r_2;
+//    int q;
+//    cin >> r_0 >> r_1;
+//    
+//    r_2 = r_0 % r_1;
+////    q = r_0 / r_1;
+//    while(r_2 != 0){
+//        r_0 = r_1;
+//        r_1 = r_2;
+////        q = r_0 / r_1;
+//        r_2 = r_0 % r_1;
+//    }
+//    
+//    cout << r_1 << endl;
+//    
+//    
+//    return 0;
+//}

@@ -1,9 +1,9 @@
+//#include<iostream>
+//using namespace std;
 //
-//  Perfect_Coverage.cpp
-//  Mock_2
-//
-//  Created by Cuipy on 2020/4/18.
-//  Copyright © 2020 Cuipy. All rights reserved.
-//
-
-#include <stdio.h>
+//int main(){
+//    
+//    
+//    
+//    return 0;
+//}
