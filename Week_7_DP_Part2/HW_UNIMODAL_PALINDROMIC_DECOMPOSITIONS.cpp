@@ -11,7 +11,7 @@ long long f(long long sum, long long min_){
     }
     if(sum == min_){
         return 1;
-    }
+    }a
     if(sum < min_){
         return 0;
     }
